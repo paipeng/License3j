@@ -85,7 +85,7 @@
                 <configuration>
                     <release>8</release>
                     <jdkToolchain>
-                        <version>10</version>
+                        <version>8</version>
                     </jdkToolchain>
                 </configuration>
             </plugin>
